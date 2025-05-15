@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Néo!
 
-<!--
-**neo-potron/neo-potron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an engineering student at **ESPCI Paris – PSL**, passionate about the intersection between **fundamental science** and its **real-world applications**.
 
-Here are some ideas to get you started:
+💡 I enjoy working on scientific projects, writing clean and well-documented code, and exploring the potential of **data, physics, chemistry, and instrumentation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neopotron) or at **neo.potron@espci.org**
+
+## ##
+
+🛠️ Tech & Tools:
+- Languages: `Python`, `MATLAB`, `LabVIEW`
+- Also familiar with: `LaTeX`, `HTML`
+- Tools: `VSCode`, `Jupyter`, `Arduino`
+
+## ##
+
+🎮 Involved in student life:
+- **PC SUPERCELL** – Communication & events lead for our Supercell gaming community  
+- **Le Bar** – Treasurer of the ESPCI’s student bar association
+
+## ##
+
+📚 Currently learning:
+- Advanced Mathematics  
+- Quantum Physics  
+- Organic Chemistry  
+- Scientific Computing
